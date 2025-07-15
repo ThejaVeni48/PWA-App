@@ -6,7 +6,7 @@
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
-    "newArchEnabled": true,
+"newArchEnabled": false,
     "splash": {
       "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
@@ -23,7 +23,24 @@
       "edgeToEdgeEnabled": true
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/favicon.png",
+      "themeColor": "#1c3681",
+      "backgroundColor": "#ffffff",
+      "manifest": {
+        "short_name": "myApp",
+        "name": "myApp - PWA",
+        "start_url": ".",
+        "display": "standalone",
+        "theme_color": "#1c3681",
+        "background_color": "#ffffff",
+        "icons": [
+          {
+            "src": "./assets/icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+          }
+        ]
+      }
     }
   }
 }

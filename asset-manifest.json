@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/static/js/main.e890d1e7.js",
-    "static/js/631.23af0a3e.js": "/static/js/631.23af0a3e.js",
-    "favicon.ico": "/favicon.ico",
-    "index.html": "/index.html",
-    "favicon-32.png": "/favicon-32.png",
-    "favicon-16.png": "/favicon-16.png",
-    "manifest.json": "/manifest.json",
-    "serve.json": "/serve.json",
-    "main.e890d1e7.js.map": "/static/js/main.e890d1e7.js.map",
-    "631.23af0a3e.js.map": "/static/js/631.23af0a3e.js.map"
+    "main.js": "/PWA-App/static/js/main.e890d1e7.js",
+    "static/js/631.23af0a3e.js": "/PWA-App/static/js/631.23af0a3e.js",
+    "favicon.ico": "/PWA-App/favicon.ico",
+    "index.html": "/PWA-App/index.html",
+    "favicon-32.png": "/PWA-App/favicon-32.png",
+    "favicon-16.png": "/PWA-App/favicon-16.png",
+    "manifest.json": "/PWA-App/manifest.json",
+    "serve.json": "/PWA-App/serve.json",
+    "main.e890d1e7.js.map": "/PWA-App/static/js/main.e890d1e7.js.map",
+    "631.23af0a3e.js.map": "/PWA-App/static/js/631.23af0a3e.js.map"
   },
   "entrypoints": [
     "static/js/631.23af0a3e.js",
